@@ -19,3 +19,5 @@ N/A
 ## License
 
 Please refer to the LICENSE in the repo.
+
+![Screenshot of web app](/assets/images/localhost_52330_index.html.png?raw=true "Horiseon Social Solution Services")
