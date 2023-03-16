@@ -20,6 +20,6 @@ N/A
 
 Please refer to the LICENSE in the repo.
 
-[Link text Here](https://dannydelts94.github.io/horiseon-accessability-refactor/)
+[Link to Deployed Site](https://dannydelts94.github.io/horiseon-accessability-refactor/)
 
 ![Screenshot of web app](/assets/images/localhost_52330_index.html.png?raw=true "Horiseon Social Solution Services")
